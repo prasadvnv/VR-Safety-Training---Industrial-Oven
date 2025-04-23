@@ -25,5 +25,8 @@ This project leverages virtual reality to create an immersive training environme
 - Ensure all dependencies (like TextMeshPro and the necessary VR packages) are installed.
 - Connect your VR hardware and set up the XR interaction system.
 - Build and run the project in your VR environment.
+## Future Work:
+- Integrate ROS for task automation simulation
+- Add real-time data feedback for training performance
 ## Safety Note
 This project simulates a real-world oven safety system. Always ensure to follow real-world safety protocols when working with actual industrial equipment.
