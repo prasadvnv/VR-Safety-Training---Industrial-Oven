@@ -1,6 +1,6 @@
 # VR-Safety-Training--Industrial-Oven
 This project leverages virtual reality to create an immersive training environment for enhancing workplace safety around industrial ovens. Developed using Unity and tested on Meta Oculus, the simulation provides a hands-on experience in identifying hazards and practicing safety protocols in a risk-free setting. 
-[Click here to view the presentation PDF](./VR Project.pdf)
+[Click here to view the presentation PDF](VR Project.pdf)
 ## Features
 - Oven Control: Start/Stop the oven using a dropdown menu with integrated time control. The oven's temperature is displayed, and it automatically shuts down if it exceeds 1200°C.
 - Emergency Stop: A manual emergency switch and automatic shutdown if the temperature exceeds 1200°C. An emergency panel and alarm system are activated upon critical temperature.
