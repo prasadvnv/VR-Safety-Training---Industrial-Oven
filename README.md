@@ -4,8 +4,7 @@ This project leverages virtual reality to create an immersive training environme
 
 ## Demo Video
 ⚠️ Note: This demo was recorded on a PC setup, which does not reflect the smoother performance on Oculus Quest.
-[![Watch the demo](https://screenrec.com/share/AfREolQXIN)
-
+Watch the VR demo here: [https://screenrec.com/share/AfREolQXIN](https://screenrec.com/share/AfREolQXIN)
 
 
 ## Initial Blender Model Preview
