@@ -1,7 +1,7 @@
 # VR-Safety-Training--Industrial-Oven
 
 This project leverages virtual reality to create an immersive training environment for enhancing workplace safety around industrial ovens. Developed using Unity and tested on Meta Oculus, the simulation provides a hands-on experience in identifying hazards and practicing safety protocols in a risk-free setting.
-[Click here to view the VR Project presentation](./VR%2520Project.pdf)
+[Click here to view the VR Project presentation](./VR%252520Project.pdf)
 
 ## Demo Video
 
@@ -36,7 +36,6 @@ Watch the VR demo here: [https://screenrec.com/share/AfREolQXIN](https://screenr
 
 * Unity 3D with the necessary VR packages (e.g., XR Interaction Toolkit)
 * VR hardware (Oculus/HTC Vive/Valve Index)
-* TextMeshPro and Unity's Particle System
 * Unity's Rigidbody and UI components for player interaction
 
 
